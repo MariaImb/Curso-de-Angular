@@ -5,7 +5,7 @@ import { Component } from "@angular/core";
 @Component({
     selector: "app-empleados",
     templateUrl: "./empleados.component.html",
-    styleUrls: ['./app.empleados.css']
+    styleUrls: ['./empleados.component.css']
 })
 
 //Creo la clase
